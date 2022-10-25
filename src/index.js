@@ -13,7 +13,7 @@ import thunk from "redux-thunk";
 
 const composeEnchancer = window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__ || compose;
 
-const x = 1
+const x =2
 
 const store = createStore(
     rootReducer,
